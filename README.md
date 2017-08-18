@@ -1,1 +1,11 @@
 # animal-trading-cards
+## style.css
+* 删除了对body标签的限制
+* 整体宽度调整放到了container中
+* 改善了margin的用法
+* 按照项目要求img改为300\*200
+* 界面优化（假装很美观😂）
+* 小小的优化，至少没那么乱了
+## card.html
+* 删除了无序标题
+* 小小的优化，至少没那么乱了
