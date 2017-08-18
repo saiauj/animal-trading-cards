@@ -1,13 +1,8 @@
 body {
     background-image: url(pika.png);
-    background-color: #456564;
     background-repeat: no-repeat;
     background-size: 230px;
     background-position: 15% -100px;
-}
-
-.title {
-    font-weight: bold;
 }
 
 img {
@@ -24,21 +19,19 @@ img {
     font-weight: bold;
 }
 
-.container {
-    color: darkslategray;
-    margin: 0px auto;
-    width: 300px;
-    font-size: 12px;
-    background-color: white;
-    box-shadow: 0px 0px 27px 9px rgba(74,74,74,1);
+.title {
+    font-weight: bold;
 }
 
-.main {
-    background-color: white;
-    box-shadow: inset 0px 0px 18px -5px rgba(74,74,74,0.54);;
+.card {
+    margin: 0px auto;
+    width: 300px;
+    font-size: 10px;
+    box-shadow:  5px 5px 1px 0px #cecece;
 }
 
 .common {
-    border: 2px solid lightgray;
+    background-color: white;
+    border: 1px solid #cecece;
     padding: 10px;
 }
